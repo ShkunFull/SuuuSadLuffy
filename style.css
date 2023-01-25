@@ -1,0 +1,33 @@
+body{
+
+background-color: blueviolet;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+}
+
+.blackcolor{
+
+background-color: black;
+
+height: 850px;
+
+width: 620px;
+
+}
+
+.videos{
+
+display: flex;
+
+justify-content: center;
+    
+align-items: center;
+
+height: 20vh;
+
+}
